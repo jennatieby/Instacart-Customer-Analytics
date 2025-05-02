@@ -22,7 +22,7 @@ The final solution combines user-level behavioral analysis with association rule
 ---
 
 ## Dataset
-- **Source:** [Instacart Market Basket Analysis (Kaggle)](https://www.kaggle.com/c/instacart-market-basket-analysis)
+- **Source:** [Instacart Market Basket Analysis (Kaggle)](https://www.kaggle.com/datasets/yasserh/instacart-online-grocery-basket-analysis-dataset)
 - **Size:** ~3.2 million orders across 200,000+ users and 50,000+ products
 
 ---
