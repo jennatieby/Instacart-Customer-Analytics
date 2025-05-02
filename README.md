@@ -56,17 +56,9 @@ The final solution combines user-level behavioral analysis with association rule
 
 ---
 
-## Try It Yourself
-Open the Colab notebook here 👉 [Colab Link](https://colab.research.google.com/drive/YOUR_NOTEBOOK_LINK)
-
----
-
 ## 📎 Files Included
 - `Final_Customer_Analytics_Instacart.ipynb` – Full Colab notebook
 - `cleaned_full_instacart.parquet` – Cleaned dataset (optional, recommended)
 - `README.md` – Project documentation
 
----
 
-## 🙋‍♂️ Questions?
-Feel free to open an issue or connect with me on GitHub!
